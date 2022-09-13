@@ -11,7 +11,7 @@ Para minha sorte sou muito curiosa e amo coisas novas, programar foi só mais um
 - 📚 <strong>Confira meu repositório!</strong> </br> Atualmente tenho tentado desenvolver projetos front e back e alguns deles estão no meu repositório. Fique à vontade para conhecer todos eles. </br></br>
 ![logo](https://user-images.githubusercontent.com/101641921/188517778-20fccd10-b0ff-465f-801d-aec96bb08b34.png)</br>
 - **Colaboradora Dasa** </br>
-Atualmente estou trabalhando na Dasa no time de desenvolvimento front-end
+Atualmente estou trabalhando na Dasa como QA
 
     [<img align="left" height="94px" width="94px" alt="Infracommerce" src="https://user-images.githubusercontent.com/73656973/135145144-b8572a6c-b44e-4337-9b83-bde7f21b9327.png"/>](https://www.labenu.com.br/)
     **Full Stack Developer Student** \
