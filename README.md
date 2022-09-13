@@ -4,7 +4,7 @@
 - 🤔 <strong> Quem sou eu? </strong> </br> Nascida nos anos 90, gosto muito de séries, filmes e também de um game. Como ainda sou uma dev iniciante, cada dia que passa fico mais encantada com o "universo da programação" e tudo que é possível fazer por meios dos códigos. Sem dúvidas, codar também já virou uma das minhas paixões.  
 
 
-- 😎 <strong> Uma coisa interessante sobre mim... </strong> </br> Sou cadeirante desde pequena e com isso sempre fui muito envolvida com as causas sociais. Com isso, em 2019 me graduei em Serviço Social, porém depois de um tempo acabei optando em mudar de carreira.</br>
+- 😎 <strong> Uma coisa interessante sobre mim... </strong> </br> Sou cadeirante desde pequena e sempre fui muito envolvida com as causas sociais. Com isso, em 2019 me graduei em Serviço Social, porém depois de um tempo acabei optando em mudar de carreira.</br>
 Para minha sorte sou muito curiosa e amo coisas novas, programar foi só mais um desafio que determinei em aprender e hoje me sinto muito orgulhosa com meu desempenho.
 
 
