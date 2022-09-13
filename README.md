@@ -1,7 +1,7 @@
 <h1 align="center">Olá mundo! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="waving hand" width="30" height="30"></h1>
 <h3>meu nome é Carolini Constantino, mas pode me chamar de Carol.</h3>
 
-- 🤔 <strong> Quem sou eu? </strong> </br> Nascida nos anos 90, gosto muito de séries, filmes e também de um game. Como ainda sou uma dev iniciante, ada dia que passa fico mais encantada com o "universo da programação" e tudo que é possível fazer por meios dos códigos. Sem dúvidas, codar também já virou uma das minhas paixões.  
+- 🤔 <strong> Quem sou eu? </strong> </br> Nascida nos anos 90, gosto muito de séries, filmes e também de um game. Como ainda sou uma dev iniciante, cada dia que passa fico mais encantada com o "universo da programação" e tudo que é possível fazer por meios dos códigos. Sem dúvidas, codar também já virou uma das minhas paixões.  
 
 
 - 😎 <strong> Uma coisa interessante sobre mim... </strong> </br> Sou cadeirante desde pequena e com isso sempre fui muito envolvida com as causas sociais. Com isso, em 2019 me graduei em Serviço Social, porém depois de um tempo acabei optando em mudar de carreira.</br>
